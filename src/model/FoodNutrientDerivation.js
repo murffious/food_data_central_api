@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodNutrientSource} from './FoodNutrientSource';
+import {ApiClient} from .js';
+import {FoodNutrientSource} from .js';
 
 /**
  * The FoodNutrientDerivation model module.

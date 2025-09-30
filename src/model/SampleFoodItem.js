@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodCategory} from './FoodCategory';
+import {ApiClient} from .js';
+import {FoodCategory} from .js';
 
 /**
  * The SampleFoodItem model module.

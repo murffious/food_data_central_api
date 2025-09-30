@@ -12,10 +12,10 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {BrandedFoodItemLabelNutrients} from './BrandedFoodItemLabelNutrients';
-import {FoodNutrient} from './FoodNutrient';
-import {FoodUpdateLog} from './FoodUpdateLog';
+import {ApiClient} from .js';
+import {BrandedFoodItemLabelNutrients} from .js';
+import {FoodNutrient} from .js';
+import {FoodUpdateLog} from .js';
 
 /**
  * The BrandedFoodItem model module.

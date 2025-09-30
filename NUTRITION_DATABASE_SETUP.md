@@ -12,18 +12,20 @@ This guide will help you populate your Supabase database with whole foods nutrit
 
 ### 1. Add Your API Key
 
-Add your FoodData Central API key to the `.env` file:
+**IMPORTANT:** You must get a real API key from [FoodData Central](https://fdc.nal.usda.gov/api-key-signup.html). The process is free and instant.
+
+Once you have your key, replace the placeholder in the `.env` file:
 
 ```bash
-# Add this line to your .env file
-FDC_API_KEY=your_api_key_here
+# In your .env file, replace DEMO_KEY with your actual key:
+FDC_API_KEY=your_real_api_key_here
 ```
 
 Your `.env` file should now have:
 ```
 VITE_SUPABASE_URL=https://...
 VITE_SUPABASE_ANON_KEY=...
-FDC_API_KEY=your_api_key_here
+FDC_API_KEY=your_real_api_key_here
 ```
 
 ### 2. Test the Connection

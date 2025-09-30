@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {MeasureUnit} from './MeasureUnit';
+import {ApiClient} from .js';
+import {MeasureUnit} from .js';
 
 /**
  * The FoodPortion model module.

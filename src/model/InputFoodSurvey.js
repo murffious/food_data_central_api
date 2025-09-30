@@ -12,9 +12,9 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {RetentionFactor} from './RetentionFactor';
-import {SurveyFoodItem} from './SurveyFoodItem';
+import {ApiClient} from .js';
+import {RetentionFactor} from .js';
+import {SurveyFoodItem} from .js';
 
 /**
  * The InputFoodSurvey model module.

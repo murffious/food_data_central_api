@@ -12,9 +12,9 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodSearchCriteria} from './FoodSearchCriteria';
-import {SearchResultFood} from './SearchResultFood';
+import {ApiClient} from .js';
+import {FoodSearchCriteria} from .js';
+import {SearchResultFood} from .js';
 
 /**
  * The SearchResult model module.

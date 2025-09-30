@@ -12,11 +12,11 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodAttribute} from './FoodAttribute';
-import {FoodPortion} from './FoodPortion';
-import {InputFoodSurvey} from './InputFoodSurvey';
-import {WweiaFoodCategory} from './WweiaFoodCategory';
+import {ApiClient} from .js';
+import {FoodAttribute} from .js';
+import {FoodPortion} from .js';
+import {InputFoodSurvey} from .js';
+import {WweiaFoodCategory} from .js';
 
 /**
  * The SurveyFoodItem model module.

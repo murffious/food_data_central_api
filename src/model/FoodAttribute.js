@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodAttributeFoodAttributeType} from './FoodAttributeFoodAttributeType';
+import {ApiClient} from .js';
+import {FoodAttributeFoodAttributeType} from .js';
 
 /**
  * The FoodAttribute model module.

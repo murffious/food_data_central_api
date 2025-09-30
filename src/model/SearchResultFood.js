@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {AbridgedFoodNutrient} from './AbridgedFoodNutrient';
+import {ApiClient} from .js';
+import {AbridgedFoodNutrient} from .js';
 
 /**
  * The SearchResultFood model module.

@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import { FDCService } from '../services/fdcService.js';
+import { FDCService } from '../services/fdcServiceSimple.js';
 import { NutritionDatabase } from '../services/nutritionDatabase.js';
 
 dotenv.config();

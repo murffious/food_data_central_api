@@ -12,18 +12,18 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {BrandedFoodItemLabelNutrientsCalcium} from './BrandedFoodItemLabelNutrientsCalcium';
-import {BrandedFoodItemLabelNutrientsCalories} from './BrandedFoodItemLabelNutrientsCalories';
-import {BrandedFoodItemLabelNutrientsCarbohydrates} from './BrandedFoodItemLabelNutrientsCarbohydrates';
-import {BrandedFoodItemLabelNutrientsFat} from './BrandedFoodItemLabelNutrientsFat';
-import {BrandedFoodItemLabelNutrientsFiber} from './BrandedFoodItemLabelNutrientsFiber';
-import {BrandedFoodItemLabelNutrientsIron} from './BrandedFoodItemLabelNutrientsIron';
-import {BrandedFoodItemLabelNutrientsPotassium} from './BrandedFoodItemLabelNutrientsPotassium';
-import {BrandedFoodItemLabelNutrientsProtein} from './BrandedFoodItemLabelNutrientsProtein';
-import {BrandedFoodItemLabelNutrientsSaturatedFat} from './BrandedFoodItemLabelNutrientsSaturatedFat';
-import {BrandedFoodItemLabelNutrientsSugars} from './BrandedFoodItemLabelNutrientsSugars';
-import {BrandedFoodItemLabelNutrientsTransFat} from './BrandedFoodItemLabelNutrientsTransFat';
+import {ApiClient} from .js';
+import {BrandedFoodItemLabelNutrientsCalcium} from .js';
+import {BrandedFoodItemLabelNutrientsCalories} from .js';
+import {BrandedFoodItemLabelNutrientsCarbohydrates} from .js';
+import {BrandedFoodItemLabelNutrientsFat} from .js';
+import {BrandedFoodItemLabelNutrientsFiber} from .js';
+import {BrandedFoodItemLabelNutrientsIron} from .js';
+import {BrandedFoodItemLabelNutrientsPotassium} from .js';
+import {BrandedFoodItemLabelNutrientsProtein} from .js';
+import {BrandedFoodItemLabelNutrientsSaturatedFat} from .js';
+import {BrandedFoodItemLabelNutrientsSugars} from .js';
+import {BrandedFoodItemLabelNutrientsTransFat} from .js';
 
 /**
  * The BrandedFoodItemLabelNutrients model module.

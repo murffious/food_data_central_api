@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodAttribute} from './FoodAttribute';
+import {ApiClient} from .js';
+import {FoodAttribute} from .js';
 
 /**
  * The FoodUpdateLog model module.

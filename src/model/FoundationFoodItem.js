@@ -12,13 +12,13 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodCategory} from './FoodCategory';
-import {FoodComponent} from './FoodComponent';
-import {FoodNutrient} from './FoodNutrient';
-import {FoodPortion} from './FoodPortion';
-import {InputFoodFoundation} from './InputFoodFoundation';
-import {NutrientConversionFactors} from './NutrientConversionFactors';
+import {ApiClient} from .js';
+import {FoodCategory} from .js';
+import {FoodComponent} from .js';
+import {FoodNutrient} from .js';
+import {FoodPortion} from .js';
+import {InputFoodFoundation} from .js';
+import {NutrientConversionFactors} from .js';
 
 /**
  * The FoundationFoodItem model module.

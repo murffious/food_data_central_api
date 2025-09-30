@@ -12,10 +12,10 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodNutrientDerivation} from './FoodNutrientDerivation';
-import {Nutrient} from './Nutrient';
-import {NutrientAnalysisDetails} from './NutrientAnalysisDetails';
+import {ApiClient} from .js';
+import {FoodNutrientDerivation} from .js';
+import {Nutrient} from .js';
+import {NutrientAnalysisDetails} from .js';
 
 /**
  * The FoodNutrient model module.

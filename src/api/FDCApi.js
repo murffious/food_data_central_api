@@ -12,13 +12,13 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from "../ApiClient";
-import {AbridgedFoodItem} from '../model/AbridgedFoodItem';
-import {FoodListCriteria} from '../model/FoodListCriteria';
-import {FoodSearchCriteria} from '../model/FoodSearchCriteria';
-import {FoodsCriteria} from '../model/FoodsCriteria';
-import {InlineResponse200} from '../model/InlineResponse200';
-import {SearchResult} from '../model/SearchResult';
+import {ApiClient} from "../ApiClient.js";
+import {AbridgedFoodItem} from '../model/AbridgedFoodItem.js';
+import {FoodListCriteria} from '../model/FoodListCriteria.js';
+import {FoodSearchCriteria} from '../model/FoodSearchCriteria.js';
+import {FoodsCriteria} from '../model/FoodsCriteria.js';
+import {InlineResponse200} from '../model/InlineResponse200.js';
+import {SearchResult} from '../model/SearchResult.js';
 
 /**
 * FDC service.

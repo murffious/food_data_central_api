@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {SampleFoodItem} from './SampleFoodItem';
+import {ApiClient} from .js';
+import {SampleFoodItem} from .js';
 
 /**
  * The InputFoodFoundation model module.

@@ -12,10 +12,10 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {FoodCategory} from './FoodCategory';
-import {FoodNutrient} from './FoodNutrient';
-import {NutrientConversionFactors} from './NutrientConversionFactors';
+import {ApiClient} from .js';
+import {FoodCategory} from .js';
+import {FoodNutrient} from .js';
+import {NutrientConversionFactors} from .js';
 
 /**
  * The SRLegacyFoodItem model module.

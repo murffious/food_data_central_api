@@ -12,8 +12,8 @@
  * Do not edit the class manually.
  *
  */
-import {ApiClient} from '../ApiClient';
-import {NutrientAcquisitionDetails} from './NutrientAcquisitionDetails';
+import {ApiClient} from .js';
+import {NutrientAcquisitionDetails} from .js';
 
 /**
  * The NutrientAnalysisDetails model module.
