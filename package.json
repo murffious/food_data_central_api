@@ -4,14 +4,19 @@
   "description": "The_FoodData_Central_API_provides_REST_access_to_FoodData_Central__FDC__It_is_intended_primarily_to_assist_application_developers_wishing_to_incorporate_nutrient_data_into_their_applications_or_websites___To_take_full_advantage_of_the_API_developers_should_familiarize_themselves_with_the_database_by_reading_the_database_documentation_available_via_links_on__Data_Type_Documentation_httpsfdc_nal_usda_govdata_documentation_html__This_documentation_provides_the_detailed_definitions_and_descriptions_needed_to_understand_the_data_elements_referenced_in_the_API_documentation_____Additional_details_about_the_API_including_rate_limits_access_and_licensing_are_available_on_the__FDC_website_httpsfdc_nal_usda_govapi_guide_html",
   "license": "Creative Commons 0 1.0 Universal",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
-    "test": "mocha --require @babel/register --recursive"
+    "test": "mocha --require @babel/register --recursive",
+    "test-connection": "node src/scripts/testConnection.js",
+    "populate": "node src/scripts/populateDatabase.js"
   },
   "browser": {
     "fs": false
   },
   "dependencies": {
     "@babel/cli": "^7.0.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.3.1",
     "superagent": "^5.3.0"
   },
   "devDependencies": {
